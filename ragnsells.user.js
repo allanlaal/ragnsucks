@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Ragn-Sells Viitenumber Collector
 // @namespace    https://github.com/allanlaal/ragnsucks
-// @version      1.1
+// @version      1.2
 // @description  Extract active Viitenumbers and display them under Maksa Kõik
 // @author       Allan Laal
 // @match        https://*.ragnsells.ee/*
-// @downloadURL  https://github.com/allanlaal/ragnsucks/ragnsells.user.js
-// @updateURL    https://github.com/allanlaal/ragnsucks/ragnsells.user.js
+// @downloadURL  https://raw.githubusercontent.com/allanlaal/ragnsucks/refs/heads/master/ragnsells.user.js
+// @updateURL    https://raw.githubusercontent.com/allanlaal/ragnsucks/refs/heads/master/ragnsells.user.js
 // @grant        none
-// ==/Script==
+// ==/UserScript==
 
 (function() {
     'use strict';
